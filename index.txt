@@ -2,3 +2,5 @@ Hello World,
 
 These are some new changes
 in the file.
+
+These changes are made from GitHub
